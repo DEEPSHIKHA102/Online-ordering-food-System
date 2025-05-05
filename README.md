@@ -67,7 +67,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/DEEPSHIKHA102/online-food-ordering.git
+git clone https://github.com/DEEPSHIKHA102/Online-ordering-food-System.git
 Navigate to the project directory:
 
 bash
